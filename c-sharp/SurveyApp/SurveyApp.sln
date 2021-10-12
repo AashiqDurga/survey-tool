@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyApp.Cli", "SurveyApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyApp.Tests", "SurveyApp.Tests\SurveyApp.Tests.csproj", "{91B872E8-F2F4-4E6A-875C-3FA4E2B429A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyApp.Analytics.Tests", "SurveyApp.Analytics.Tests\SurveyApp.Analytics.Tests.csproj", "{1877A107-AB9F-4ADA-AA2B-ADA824C5E49D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{91B872E8-F2F4-4E6A-875C-3FA4E2B429A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91B872E8-F2F4-4E6A-875C-3FA4E2B429A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91B872E8-F2F4-4E6A-875C-3FA4E2B429A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1877A107-AB9F-4ADA-AA2B-ADA824C5E49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1877A107-AB9F-4ADA-AA2B-ADA824C5E49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1877A107-AB9F-4ADA-AA2B-ADA824C5E49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1877A107-AB9F-4ADA-AA2B-ADA824C5E49D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
